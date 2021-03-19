@@ -252,6 +252,9 @@
 \addtocontents{lof}{\protect\noaddvspace}
 \addtocontents{lot}{\protect\noaddvspace}
 
+%% 删除额外段间距
+\setlength\parskip{0pt}
+
 %% 删去缩进
 \renewcommand*\l@figure{\@dottedtocline{1}{0em}{2.3em}}% Default: 1.5em/2.3em
 \let\l@table\l@figure
