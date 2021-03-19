@@ -1,0 +1,44 @@
+\documentclass[master,oneside]{HHU-thesis}
+%- 文档选项
+% degree: master, doctor
+% layout: oneside, twoside	
+% 其实没有区别，因为学校给的模板就没区别单双面印刷的页边距
+\refcolor{on}
+% 是否在奇数页开始新的章节，一般而言打印版需要
+% 另外，在摘要、目录部分，学校给的模板并没有明确说明页眉如何设置
+% 不打开单双业的话，页眉也是怪怪的
+\beginright{off}
+% 空白页留字，一般保持空白
+\emptypagewords{}
+
+% 信息
+\input{tex/info}
+
+% 前言
+% 如果是硕士论文，此部分将会被忽略
+\input{tex/preface}
+
+% 摘要
+\input{tex/abstract}
+
+% 图标目录
+\Listfigtab{on} % 启用: on[默认]; 关闭: off;
+
+% 符号说明，不需要此项时将tex/abbreviations文件中的参数清空
+\input{tex/abbreviations}
+
+\begin{document}
+	
+\input{tex/chap_intro}
+\input{tex/chap_eq}
+\input{tex/chap_cite}
+\input{tex/chap_pending}
+	
+% 文献
+\input{tex/bib}
+% 致谢
+\input{tex/acknowledgement}
+% 附录
+\input{tex/appendix}
+
+\end{document}
