@@ -15,7 +15,7 @@
 HHU-thesis
  |- HHU-thesis.cls                  // LaTeX宏模板文件
  |- document.tex                    // LaTeX模板
- |- ref.bib                         // LaTeX模板中的参考文献Bib文件
+ |- ref.bib                         // LaTeX模板中的参考文献文件
  |- bst/GBT7714-2005.bst            // 国标参考文献BibTeX样式文件2005版
  |- bst/GBT7714-2015.bst            // 国标参考文献BibTeX样式文件2015版
  |- figures/logo/hohai_logo.png     // 论文封皮河海大学标志
