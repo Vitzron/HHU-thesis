@@ -27,7 +27,7 @@ HHU-thesis
 ## 建议及问题反馈
 
 + E-mail: weizhilong@hhu.edu.cn
-+ GitHub: 
++ GitHub: https://github.com/Vitzron/HHU-thesis/issues
 
 ## 我的环境
 
