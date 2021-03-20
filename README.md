@@ -35,6 +35,9 @@ HHU-thesis
 + TeXStudio 2.10.8
 + Tex Live 2019
 
+## 关于Overleaf
+下载成zip格式压缩包，在Overleaf首页选择【创建新项目】-【上传项目】，将zip格式压缩包整体上传即可。注意需在项目页左上角【菜单】中修改编译器为XeLaTeX, TeX Live version选择2019，目前发现2020版本信息页主题词后强制换行。
+
 ## 致谢
 
 感谢[Haixing Hu](https://github.com/Haixing-Hu)提供的2005版参考文献著录BibTeX样式[GBT7714-2005](https://github.com/Haixing-Hu/GBT7714-2005-BibTeX-Style)及[Zeping Lee](https://github.com/zepinglee)提供的2015版参考文献著录BibTeX样式[GBT7714-2015](https://github.com/zepinglee/gbt7714-bibtex-style)，为本项目LaTeX模板的形成提供了很大的帮助。
