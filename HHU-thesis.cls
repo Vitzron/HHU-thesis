@@ -541,7 +541,7 @@
 }}
 
 \newcommand{\makecoverinner}{% 封面内页
-	{\pdfbookmark[0]{题目页}{makecoverinner}
+	{\pdfbookmark[0]{题名页}{makecoverinner}
 		{\tiny \phantom{first line shift}}
 		\vspace{-30pt}
 		\begin{spacing}{2.5}
@@ -629,7 +629,7 @@
 	{\pdfbookmark[0]{英文摘要}{abstructkeyworden}
 		
 		\begin{spacing}{1.41}%1.25
-			\chapter*{Abstract}
+			\chapter*{ABSTRACT}
 			
 			{\zihao{-4}
 				\@abstrcten \par~
