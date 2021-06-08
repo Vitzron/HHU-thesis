@@ -33,7 +33,7 @@ HHU-thesis
 
 + Ubuntu 16.04 64bits
 + TeXStudio 2.10.8
-+ Tex Live 2019
++ TeX Live 2019
 
 ## 关于Overleaf
 下载成zip格式压缩包，在Overleaf首页选择【创建新项目】-【上传项目】，将zip格式压缩包整体上传即可。注意需在项目页左上角【菜单】中修改编译器为XeLaTeX, TeX Live version选择2019，目前发现2020版本信息页主题词后强制换行。
