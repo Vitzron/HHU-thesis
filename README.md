@@ -1,9 +1,9 @@
 # HHU-thesis
-河海大学学位论文LaTeX模板
+河海大学研究生学位论文LaTeX模板
 
 > 非官方版本，不保证能够满足最终论文提交等要求！！！！
 
-本项目为河海大学学位论文HHU-thesis模板，论文样式参考[《河海大学研究生学位论文编写格式规定、模板与示例》](http://gs.hhu.edu.cn/2020/0929/c3576a213269/page.htm)
+本项目为河海大学研究生学位论文HHU-thesis模板，论文样式参考[《河海大学研究生学位论文编写格式规定、模板与示例》](http://gs.hhu.edu.cn/2020/0929/c3576a213269/page.htm)
 
 基于[ctexbook](https://ctan.org/pkg/ctex)，
 参考[北航研究生毕业论文模板](https://github.com/CheckBoxStudio/BUAAThesis.git)
